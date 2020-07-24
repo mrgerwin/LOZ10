@@ -3,9 +3,9 @@ Making Items
 
 In this lesson we will be making items for the game.  Start by using game1.7.1.py because it has some bug fixes that I talk about in the video, it is coded to work with python_functions7.  If you get stuck then the completed code from the video is game1.8.
 
-Video - YouTube - https://youtu.be/m8Eb5ySOoPM
-Video - EdPuzzle - 
-Slides - https://docs.google.com/presentation/d/1uO5lS8YK4p_66i0E2oaMRunPzeWOfrFp1fQsVdKIKF4/edit?usp=sharing
+Video - YouTube - https://youtu.be/m8Eb5ySOoPM  
+Video - EdPuzzle -   
+Slides - https://docs.google.com/presentation/d/1uO5lS8YK4p_66i0E2oaMRunPzeWOfrFp1fQsVdKIKF4/edit?usp=sharing  
 
 Extensions-  
 1. Create Items for the bomb, fairy, and clock.  Make classes for them inheriting the Item class.   
