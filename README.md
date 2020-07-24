@@ -17,7 +17,6 @@ Extensions-
 4. In the if block when calling dropChart, use enemy.type for the second parameter
 
 Challenge-
-1. In the fairy class override move so that it randomly moves all of the screen after it is dropped by an enemy.
+1. In the fairy class add to the animate method so that it randomly moves all of the screen after it is dropped by an enemy.
 2. You will need to add a speed parameter to the fairy class.  You don't want it to be faster than link.
 3. Fairies actually can move through walls and leave the scene so don't worry about controlling for those collisions.
-4. In the game program during the infinite while loop you will have to go through the list of items and call the move function to move any fairies that exist.  Writing this will create a programming issue.  I want to see how you overcome this issue.
