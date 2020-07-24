@@ -1,7 +1,7 @@
 # LOZ10
 Making Items  
 
-In this lesson we will be making items for the game.  Start by using game1.7.1.py because it has some bug fixes that I talk about in the video, it is coded to work with python_functions7.  If you get stuck then the completed code from the video is game1.8.
+In this lesson we will be making items for the game.  Start by using game1.7.1.py because it has some bug fixes that I talk about in the video, it is coded to work with python_functions7.  All png files should be downloaded and placed in the same folder as your game file.  If you get stuck then the completed code from the video is game1.8.
 
 Video - YouTube - https://youtu.be/m8Eb5ySOoPM  
 Video - EdPuzzle - https://edpuzzle.com/media/5f1b3923b5381c3f2cf05bd7   
