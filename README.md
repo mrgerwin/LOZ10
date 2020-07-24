@@ -9,9 +9,9 @@ Slides - https://docs.google.com/presentation/d/1uO5lS8YK4p_66i0E2oaMRunPzeWOfrF
 
 Extensions-  
 1. Create Items for the bomb, fairy, and clock.  Make classes for them inheriting the Item class.   
-  -Bomb should have the parameter self.bomb=1.  It is not animated.
-  -Fairy should have the parameter self.health = 15.  It is animated.
-  -Clock should have the parameter self.time =1.  It is not animated.
+  -Bomb should have the parameter self.bomb=1.  It is not animated.  
+  -Fairy should have the parameter self.health = 15.  It is animated.  
+  -Clock should have the parameter self.time =1.  It is not animated.  
 2. Code the if block so that enemies drop these items if they are killed.
 3. Add a parameter to each of your enemies called self.type.  Make some of your enemies be types "A" through "D".
 4. In the if block when calling dropChart, use enemy.type for the second parameter
